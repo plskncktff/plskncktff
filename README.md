@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @plskncktff
-- 👀 I’m interested in game development in general and game testing in particular
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any projects related to game development
 <!---
